@@ -1,7 +1,7 @@
 # RouteWise
 
 <p align="left">
-  <img width="652" alt="logo1" src="https://github.com/user-attachments/assets/d4aa54dc-adf6-4bc4-b49f-252f562a9368" width="150"/>
+  <img alt="logo1" src="https://github.com/user-attachments/assets/d4aa54dc-adf6-4bc4-b49f-252f562a9368" width="150"/>
 
 </p>
 
