@@ -1,7 +1,8 @@
 # RouteWise
 
 <p align="left">
-  <img src="static/images/logo1.PNG" alt="RouteWise Logo" width="150"/>
+  <img width="652" height="653" alt="logo1" src="https://github.com/user-attachments/assets/d4aa54dc-adf6-4bc4-b49f-252f562a9368" />
+
 </p>
 
 ---
@@ -55,8 +56,8 @@ python app.py
 ```
 ## Contributors
   This project was developed by the following team members:
+ - **Anuj Trivedi** (Roll Number: B23CH1006)
  - **Aditya Rout** (Roll Number: B23PH1002)
  - **Amee Ghai** (Roll Number: B23PH1003)
- - **Anuj Trivedi** (Roll Number: B23CH1006)
  - **Kartik Jain** (Roll Number: B23ME1026)
 
